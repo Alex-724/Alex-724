@@ -6,7 +6,7 @@
 <p align="center">
 
 <a href="https://dsc.bio/Alex-724">
-  <img src="https://lanyard-profile-readme.vercel.app/api/737367599242936450?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
+  <img src="https://lanyard-profile-readme.vercel.app/api/1072592763427754034?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
 </a>
 
 </p>
